@@ -36,13 +36,39 @@ class lixuanyi(object):
                 a, b = b, a + b
             return L
 
-
-
-print(lixuanyi)
-for lili in lixuanyi():
-    print(lili)
+    def __getattr__(self, attr):
+        if attr == 'lili':
+            return lambda x: x**2
+    #    raise AttributeError()
 
 
 print(lixuanyi()[1 : 30 ])
 
 
+print(lixuanyi().lili(5))
+print(lixuanyi().mama)
+
+
+
+class trychain(object):
+    def __init__(self, path = ''):
+      self._path = path
+
+
+    def __getattr__(self, path):
+        if path == 'users':
+            return lambda name: trychain('%s/users/:%s'  %  (self._path, name))
+        return trychain('%s/%s'  %  (self._path, path ))
+
+    def __str__(self):
+        return self._path
+
+    def __call__(self, op):
+        print('hug me %s'%  op)
+print(trychain().users('huangyufeng').eor.pc.mas.epepjfalsdfa.fffccc.wq)
+
+
+papa = trychain('op')
+
+
+papa('nana')
