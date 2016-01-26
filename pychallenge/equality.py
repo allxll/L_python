@@ -5,11 +5,16 @@ myhead = {'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM
 te = requests.get(url, headers=myhead)
 text = re.findall('<!--(.*?)-->', te.text, re.S)
 lines = text[0].split('\n')
-with open('equalitydata.txt', 'w') as f:
-    f.write(lines)
-L = ''
-for line in lines:
-    print(line)
-    for i in range(len(line)):
-        pass
-
+L = []
+for row, line in enumerate(lines):
+    for i, ch in enumerate(line):
+        if i < 3 or i > len(line) - 4: continue
+        s = line[i-3:i]+line[i+1:i+4]
+        if s.isupper() and ch.islower():
+            if i == 3 or i == len(line) - 4:
+                L.append(ch)
+                print(ch, row, i, sep="------")
+            elif (line[i-4]+line[i+4]).islower():
+                L.append(ch)
+                print(ch, (line[i-4]+line[i+4]), row, i, sep="------")
+print(L)

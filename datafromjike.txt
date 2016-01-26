@@ -282,15 +282,15 @@ var _hmt = _hmt || [];
 			 
 				 
 					
-<li id="1806" test="0" deg="0" >
+<li id="1815" test="0" deg="0" >
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1806.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1806&posColumn=1806.1">
-			<img src="http://a1.jikexueyuan.com/home/201508/10/7fa1/55c807fd548be.jpg" class="lessonimg" title="开发者与 Android 设备及模拟器通讯的工具：adb （上）" alt="开发者与 Android 设备及模拟器通讯的工具：adb （上）">
+		<a href="http://www.jikexueyuan.com/course/1815.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1815&posColumn=1815.1">
+			<img src="http://a1.jikexueyuan.com/home/201508/11/ec72/55c9511cdd151.jpg" class="lessonimg" title="Android 开发实战：即时语音聊天工具之项目搭建" alt="Android 开发实战：即时语音聊天工具之项目搭建">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1806&posColumn=1806.1"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1815&posColumn=1815.1"></i>
 			</div>
 			
 
@@ -299,7 +299,58 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1806.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1806&posColumn=1806.1">开发者与 Android 设备及模拟器通讯的工具：adb （上）</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1815.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1815&posColumn=1815.1">Android 开发实战：即时语音聊天工具之项目搭建</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将带领大家通过集成融云即时通讯工具的 SDK ，来为自己的应用添加即时文字、语音通讯功能。通过第一课的学习，我们将对融云即时通讯平台有一定的了解，并对整个项目的结构有一定的了解。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							35分钟</em>
+					</dd>
+					<dd class="zhongji">
+						
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+					
+				</dl>
+				<em class="learn-number">4603人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+					
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=1815&posColumn=1815.1&aCCate=android" >
+					</a>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+ 
+				 
+					
+<li id="1806" test="0" deg="0" >
+	<div class="lessonimg-box">
+			
+		
+		<a href="http://www.jikexueyuan.com/course/1806.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1806&posColumn=1806.2">
+			<img src="http://a1.jikexueyuan.com/home/201508/10/7fa1/55c807fd548be.jpg" class="lessonimg" title="开发者与 Android 设备及模拟器通讯的工具：adb （上）" alt="开发者与 Android 设备及模拟器通讯的工具：adb （上）">
+			
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1806&posColumn=1806.2"></i>
+			</div>
+			
+
+		</a>
+		
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1806.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1806&posColumn=1806.2">开发者与 Android 设备及模拟器通讯的工具：adb （上）</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程介绍 adb 命令，以及 adb 命令所能完成的工作。本课程从不同的角度来深入学习 adb 命令的使用。 adb 命令是开发者必须掌握的基础，熟练使用一些 adb 命令，会大大提升工作效率。
 		</p>
@@ -315,7 +366,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">3550人学习</em>
+				<em class="learn-number">3552人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -338,11 +389,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1748.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1748&posColumn=1748.2">
+		<a href="http://www.jikexueyuan.com/course/1748.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1748&posColumn=1748.3">
 			<img src="http://a1.jikexueyuan.com/home/201508/04/e53c/55c01fefca194.jpg" class="lessonimg" title="自定义 View 基础和原理" alt="自定义 View 基础和原理">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1748&posColumn=1748.2"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1748&posColumn=1748.3"></i>
 			</div>
 			
 
@@ -351,7 +402,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1748.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1748&posColumn=1748.2">自定义 View 基础和原理</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1748.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1748&posColumn=1748.3">自定义 View 基础和原理</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解最简单的自定义 View，然后加入绘制元素（文字和图形等），接着让绘制的元素动起来。接下来进行封装自己的通用自定义 View，最后演示通过 xml 中的样式属性来影响显示效果。本课程的重点是利用 Canvas 来绘制逻辑线程，通过本课程的学习希望可以熟练使用 xml 的样式属性在自定义 View 中应用。
 		</p>
@@ -367,7 +418,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">8596人学习</em>
+				<em class="learn-number">8607人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -390,11 +441,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1715.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1715&posColumn=1715.3">
+		<a href="http://www.jikexueyuan.com/course/1715.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1715&posColumn=1715.4">
 			<img src="http://a1.jikexueyuan.com/home/201507/30/a321/55b982b52af95.jpg" class="lessonimg" title="图片缩放库 Photoview 和 Gif  控件 GifView 的使用" alt="图片缩放库 Photoview 和 Gif  控件 GifView 的使用">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1715&posColumn=1715.3"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1715&posColumn=1715.4"></i>
 			</div>
 			
 
@@ -403,7 +454,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1715.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1715&posColumn=1715.3">图片缩放库 Photoview 和 Gif  控件 GifView 的使用</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1715.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1715&posColumn=1715.4">图片缩放库 Photoview 和 Gif  控件 GifView 的使用</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解 Android 中对图片的单点、触摸缩放的库 PhotoView 的使用以及可播放 Gif 动画图片的控件库 GifView 的基本使用。
 		</p>
@@ -419,7 +470,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4601人学习</em>
+				<em class="learn-number">4616人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -441,11 +492,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1701.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1701&posColumn=1701.4">
+		<a href="http://www.jikexueyuan.com/course/1701.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1701&posColumn=1701.5">
 			<img src="http://a1.jikexueyuan.com/home/201507/30/a97b/55b97fd56d0a3.jpg" class="lessonimg" title="Android 开发实战：微博之发微博页面表情面板和接口开发" alt="Android 开发实战：微博之发微博页面表情面板和接口开发">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1701&posColumn=1701.4"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1701&posColumn=1701.5"></i>
 			</div>
 			
 
@@ -454,7 +505,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1701.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1701&posColumn=1701.4">Android 开发实战：微博之发微博页面表情面板和接口开发</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1701.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1701&posColumn=1701.5">Android 开发实战：微博之发微博页面表情面板和接口开发</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程中将演示发微博页面里的表情面板功能，会用 ViewPager 嵌套 GridView 的方式实现，每一页都是一组表情图片，点击图片时会将表情加到输入框中，每个 GridView 的末尾还会有一个删除按钮。此外还会介绍接口的开发，微博 API 中对于发布微博提供了多个接口，我们根据微博内容分别调用。
 		</p>
@@ -470,7 +521,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4094人学习</em>
+				<em class="learn-number">4100人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -493,11 +544,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1659.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1659&posColumn=1659.5">
+		<a href="http://www.jikexueyuan.com/course/1659.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1659&posColumn=1659.6">
 			<img src="http://a1.jikexueyuan.com/home/201507/23/bc0b/55b04bff82388.jpg" class="lessonimg" title="Android 非空格式验证框架的使用" alt="Android 非空格式验证框架的使用">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1659&posColumn=1659.5"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1659&posColumn=1659.6"></i>
 			</div>
 			
 
@@ -506,7 +557,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1659.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1659&posColumn=1659.5">Android 非空格式验证框架的使用</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1659.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1659&posColumn=1659.6">Android 非空格式验证框架的使用</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解 Android 中非空格式验证、手机、邮件等格式的验证框架 Android Validation 的用法。
 		</p>
@@ -522,7 +573,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4142人学习</em>
+				<em class="learn-number">4154人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -544,11 +595,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1642.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1642&posColumn=1642.6">
+		<a href="http://www.jikexueyuan.com/course/1642.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1642&posColumn=1642.7">
 			<img src="http://a1.jikexueyuan.com/home/201507/22/ff2e/55af4bf0d4eed.jpg" class="lessonimg" title="Android 开发实战：微博之发微博页面图片处理" alt="Android 开发实战：微博之发微博页面图片处理">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1642&posColumn=1642.6"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1642&posColumn=1642.7"></i>
 			</div>
 			
 
@@ -557,7 +608,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1642.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1642&posColumn=1642.6">Android 开发实战：微博之发微博页面图片处理</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1642.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1642&posColumn=1642.7">Android 开发实战：微博之发微博页面图片处理</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程将演示发微博页面中的图片添加和删除等处理方法。图片的选择包括从手机相册选择以及拍照获取图片两种方式，获取到的图片将用 GridView 控件以九宫格的形式显示，同时每个图片都会在右上角添加一个叉号按钮提供删除功能。
 		</p>
@@ -573,7 +624,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4165人学习</em>
+				<em class="learn-number">4173人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -595,11 +646,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1607.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1607&posColumn=1607.7">
+		<a href="http://www.jikexueyuan.com/course/1607.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1607&posColumn=1607.8">
 			<img src="http://a1.jikexueyuan.com/home/201507/16/ffec/55a71715e5056.jpg" class="lessonimg" title="Android 开发实战：自动检测更新功能的实现" alt="Android 开发实战：自动检测更新功能的实现">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1607&posColumn=1607.7"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1607&posColumn=1607.8"></i>
 			</div>
 			
 
@@ -608,7 +659,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1607.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1607&posColumn=1607.7">Android 开发实战：自动检测更新功能的实现</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1607.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1607&posColumn=1607.8">Android 开发实战：自动检测更新功能的实现</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程讲解 Android 中如何自动检测并更新到最新版本，首先使用现有的开发者服务来实现自动更新，再逐步通过实际编写代码来实现同样的功能。
 		</p>
@@ -624,7 +675,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">5970人学习</em>
+				<em class="learn-number">5981人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -646,11 +697,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1592.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1592&posColumn=1592.8">
+		<a href="http://www.jikexueyuan.com/course/1592.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1592&posColumn=1592.9">
 			<img src="http://a1.jikexueyuan.com/home/201507/15/d6c8/55a5bffbb592f.jpg" class="lessonimg" title="Android 项目开发实战：图案解锁" alt="Android 项目开发实战：图案解锁">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1592&posColumn=1592.8"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1592&posColumn=1592.9"></i>
 			</div>
 			
 
@@ -659,7 +710,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1592.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1592&posColumn=1592.8">Android 项目开发实战：图案解锁</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1592.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1592&posColumn=1592.9">Android 项目开发实战：图案解锁</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程讲解在 Android 上实现一个自定义的图案解锁用户控件，并利用这个自定义控件为应用添加图案解锁功能。该应用可以允许用户设置自己的解锁图案，然后就可以使用该图案进行解锁。应用使用自定义 View 实现基本点的显示与切换，使用 Canvas 实现界面的绘制。
 		</p>
@@ -675,7 +726,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">6516人学习</em>
+				<em class="learn-number">6522人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -698,11 +749,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1576.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1576&posColumn=1576.9">
+		<a href="http://www.jikexueyuan.com/course/1576.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1576&posColumn=1576.10">
 			<img src="http://a1.jikexueyuan.com/home/201507/14/34f5/55a4a6be9e8b9.jpg" class="lessonimg" title="HTML、XML 等 Dom 结点类解析库的使用" alt="HTML、XML 等 Dom 结点类解析库的使用">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1576&posColumn=1576.9"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1576&posColumn=1576.10"></i>
 			</div>
 			
 
@@ -711,7 +762,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1576.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1576&posColumn=1576.9">HTML、XML 等 Dom 结点类解析库的使用</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1576.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1576&posColumn=1576.10">HTML、XML 等 Dom 结点类解析库的使用</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解 Android 中具有 Dom 结点标签的文本文件的解析库 jsoup 的使用，例如 Html、XML、Epub3 及自定义标签的文本的解析。
 		</p>
@@ -727,7 +778,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">3593人学习</em>
+				<em class="learn-number">3602人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -749,11 +800,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1585.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1585&posColumn=1585.10">
+		<a href="http://www.jikexueyuan.com/course/1585.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1585&posColumn=1585.11">
 			<img src="http://a1.jikexueyuan.com/home/201507/14/d78c/55a468fbbb964.jpg" class="lessonimg" title="Android 开发实战：微博之详情页面的开发" alt="Android 开发实战：微博之详情页面的开发">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1585&posColumn=1585.10"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1585&posColumn=1585.11"></i>
 			</div>
 			
 
@@ -762,7 +813,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1585.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1585&posColumn=1585.10">Android 开发实战：微博之详情页面的开发</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1585.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1585&posColumn=1585.11">Android 开发实战：微博之详情页面的开发</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程将带大家分析微博详情页的布局结构，并提供几种实现思路。项目中采用的是 PullToRefreshListView 添加 HeaderView 的方式。此外还介绍演示了不同入口跳转到微博详情页的区别处理，以及微博评论列表的获取显示和评论发表功能。
 		</p>
@@ -778,7 +829,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4041人学习</em>
+				<em class="learn-number">4046人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -801,11 +852,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1549.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1549&posColumn=1549.11">
+		<a href="http://www.jikexueyuan.com/course/1549.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1549&posColumn=1549.12">
 			<img src="http://a1.jikexueyuan.com/home/201507/09/867c/559dd7c3a4b72.jpg" class="lessonimg" title="Android JSON 解析库的使用" alt="Android JSON 解析库的使用">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1549&posColumn=1549.11"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1549&posColumn=1549.12"></i>
 			</div>
 			
 
@@ -814,7 +865,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1549.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1549&posColumn=1549.11">Android JSON 解析库的使用</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1549.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1549&posColumn=1549.12">Android JSON 解析库的使用</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解 Android 中 JSON 格式数据类型高效解析框架的使用和优势，并配以示例加以理解。
 		</p>
@@ -830,7 +881,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">6117人学习</em>
+				<em class="learn-number">6134人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -852,11 +903,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1544.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1544&posColumn=1544.12">
+		<a href="http://www.jikexueyuan.com/course/1544.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1544&posColumn=1544.13">
 			<img src="http://a1.jikexueyuan.com/home/201507/08/feaf/559c7bae2ecd4.jpg" class="lessonimg" title="Android职业路径图介绍" alt="Android职业路径图介绍">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1544&posColumn=1544.12"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1544&posColumn=1544.13"></i>
 			</div>
 			
 
@@ -865,7 +916,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1544.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1544&posColumn=1544.12">Android职业路径图介绍</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1544.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1544&posColumn=1544.13">Android职业路径图介绍</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课介绍Android历史、Android职业现状、Android发展前景以及极客学院所提供的Android职业路径的知识规划
 		</p>
@@ -881,7 +932,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">8149人学习</em>
+				<em class="learn-number">8157人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -903,11 +954,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1540.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1540&posColumn=1540.13">
+		<a href="http://www.jikexueyuan.com/course/1540.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1540&posColumn=1540.14">
 			<img src="http://a1.jikexueyuan.com/home/201507/07/48d6/559b2cb531c2a.jpg" class="lessonimg" title="Android 开发实战：微博之首页列表页面进阶功能" alt="Android 开发实战：微博之首页列表页面进阶功能">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1540&posColumn=1540.13"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1540&posColumn=1540.14"></i>
 			</div>
 			
 
@@ -916,7 +967,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1540.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1540&posColumn=1540.13">Android 开发实战：微博之首页列表页面进阶功能</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1540.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1540&posColumn=1540.14">Android 开发实战：微博之首页列表页面进阶功能</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程带大家进行微博首页列表页面进阶功能的开发。首先是微博特殊文字的处理，包括话题、用户文字可点击效果，以及表情的图片显示，这部分会使用 SpannableString 即拓展性字符串去实现。此外还会使用 PullToRefresh 去处理微博首页列表的下拉刷新和多页加载的功能。
 		</p>
@@ -932,7 +983,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4090人学习</em>
+				<em class="learn-number">4097人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -954,11 +1005,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1521.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1521&posColumn=1521.14">
+		<a href="http://www.jikexueyuan.com/course/1521.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1521&posColumn=1521.15">
 			<img src="http://a1.jikexueyuan.com/home/201507/03/921b/5595f2d84eb7d.jpg" class="lessonimg" title="Android Data Binding Library  数据绑定库详解" alt="Android Data Binding Library  数据绑定库详解">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1521&posColumn=1521.14"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1521&posColumn=1521.15"></i>
 			</div>
 			
 
@@ -967,7 +1018,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1521.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1521&posColumn=1521.14">Android Data Binding Library  数据绑定库详解</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1521.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1521&posColumn=1521.15">Android Data Binding Library  数据绑定库详解</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解 Android Data Binding Library   的使用，带领大家搭建好环境。实现一个简单的数据绑定程序。并更深入的了解 Android Data Binding Library  的高级用法。
 		</p>
@@ -983,7 +1034,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">3612人学习</em>
+				<em class="learn-number">3615人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1005,11 +1056,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1498.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1498&posColumn=1498.15">
+		<a href="http://www.jikexueyuan.com/course/1498.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1498&posColumn=1498.16">
 			<img src="http://a1.jikexueyuan.com/home/201507/01/cc4d/55934e8f88af4.jpg" class="lessonimg" title="Android项目开发实战：语音播报计算器拓展功能实现" alt="Android项目开发实战：语音播报计算器拓展功能实现">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1498&posColumn=1498.15"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1498&posColumn=1498.16"></i>
 			</div>
 			
 
@@ -1018,7 +1069,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1498.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1498&posColumn=1498.15">Android项目开发实战：语音播报计算器拓展功能实现</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1498.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1498&posColumn=1498.16">Android项目开发实战：语音播报计算器拓展功能实现</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程在语音播报计算器的基础上，实现更人性化的功能。它包括：下滑显示框展示历史记录、历史记录可滑动删除、合计历史记录功能、清除所有历史记录功能。
 		</p>
@@ -1057,11 +1108,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1466.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1466&posColumn=1466.16">
+		<a href="http://www.jikexueyuan.com/course/1466.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1466&posColumn=1466.17">
 			<img src="http://a1.jikexueyuan.com/home/201506/26/ceaa/558cb35280e0d.jpg" class="lessonimg" title="Android ORM 数据库的使用" alt="Android ORM 数据库的使用">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1466&posColumn=1466.16"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1466&posColumn=1466.17"></i>
 			</div>
 			
 
@@ -1070,7 +1121,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1466.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1466&posColumn=1466.16">Android ORM 数据库的使用</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1466.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1466&posColumn=1466.17">Android ORM 数据库的使用</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解 Android 中 ORM 类型数据库框架的使用和优势。
 		</p>
@@ -1086,7 +1137,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4746人学习</em>
+				<em class="learn-number">4760人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1109,11 +1160,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1456.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1456&posColumn=1456.17">
+		<a href="http://www.jikexueyuan.com/course/1456.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1456&posColumn=1456.18">
 			<img src="http://a1.jikexueyuan.com/home/201506/25/f07c/558b6c1d913bf.jpg" class="lessonimg" title="面试硬技能指导" alt="面试硬技能指导">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1456&posColumn=1456.17"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1456&posColumn=1456.18"></i>
 			</div>
 			
 
@@ -1122,7 +1173,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1456.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1456&posColumn=1456.17">面试硬技能指导</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1456.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1456&posColumn=1456.18">面试硬技能指导</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课指导在面试过程中所需要的硬技能，硬技能就是你的软件开发专业能力，这是能够胜任工作的最基本要求，课程内容帮助你对Android开发知识体系进行梳理，能够让你在大脑中建立一个立体的知识体系，从而让你更容易通过面试
 		</p>
@@ -1138,7 +1189,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">7473人学习</em>
+				<em class="learn-number">7485人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1160,11 +1211,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1446.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1446&posColumn=1446.18">
+		<a href="http://www.jikexueyuan.com/course/1446.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1446&posColumn=1446.19">
 			<img src="http://a1.jikexueyuan.com/home/201506/25/b159/558b640a177cf.jpg" class="lessonimg" title="Android 开发实战：微博之首页列表页面基本数据展示" alt="Android 开发实战：微博之首页列表页面基本数据展示">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1446&posColumn=1446.18"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1446&posColumn=1446.19"></i>
 			</div>
 			
 
@@ -1173,7 +1224,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1446.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1446&posColumn=1446.18">Android 开发实战：微博之首页列表页面基本数据展示</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1446.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1446&posColumn=1446.19">Android 开发实战：微博之首页列表页面基本数据展示</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程给大家演示首页微博列表页面的开发。包括列表页面的布局样式确定，和首页列表接口数据的获取和绑定。
 		</p>
@@ -1189,7 +1240,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">5080人学习</em>
+				<em class="learn-number">5088人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1212,11 +1263,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1435.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1435&posColumn=1435.19">
+		<a href="http://www.jikexueyuan.com/course/1435.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1435&posColumn=1435.20">
 			<img src="http://a1.jikexueyuan.com/home/201506/24/a488/558a0a6d79302.jpg" class="lessonimg" title="Android 视图切换库的使用" alt="Android 视图切换库的使用">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1435&posColumn=1435.19"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1435&posColumn=1435.20"></i>
 			</div>
 			
 
@@ -1225,7 +1276,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1435.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1435&posColumn=1435.19">Android 视图切换库的使用</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1435.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1435&posColumn=1435.20">Android 视图切换库的使用</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程主要讲解 Android 视图切换库 SwitchLayout 的使用和其拓展性演示。
 		</p>
@@ -1241,7 +1292,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">6044人学习</em>
+				<em class="learn-number">6062人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1263,11 +1314,11 @@ var _hmt = _hmt || [];
 	<div class="lessonimg-box">
 			
 		
-		<a href="http://www.jikexueyuan.com/course/1411.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1411&posColumn=1411.20">
+		<a href="http://www.jikexueyuan.com/course/1411.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1411&posColumn=1411.21">
 			<img src="http://a1.jikexueyuan.com/home/201506/19/f11d/55836f5c2424e.jpg" class="lessonimg" title="Android 项目开发实战：微博之主页面开发" alt="Android 项目开发实战：微博之主页面开发">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1411&posColumn=1411.20"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1411&posColumn=1411.21"></i>
 			</div>
 			
 
@@ -1276,7 +1327,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1411.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1411&posColumn=1411.20">Android 项目开发实战：微博之主页面开发</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1411.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1411&posColumn=1411.21">Android 项目开发实战：微博之主页面开发</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程给大家演示了微博欢迎页面、登录页面和主页面的开发。其中涉及到常用底部导航栏页面结构的实现，以及如何利用 Builder 模式对标题栏进行封装。
 		</p>
@@ -1292,7 +1343,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">5169人学习</em>
+				<em class="learn-number">5180人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1315,11 +1366,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1377.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1377&posColumn=1377.21">
+		<a href="http://www.jikexueyuan.com/course/1377.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1377&posColumn=1377.22">
 			<img src="http://a1.jikexueyuan.com/home/201506/17/816d/5580cfaee52b8.jpg" class="lessonimg" title="Android面试软技能指导" alt="Android面试软技能指导">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1377&posColumn=1377.21"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1377&posColumn=1377.22"></i>
 			</div>
 			
 
@@ -1328,7 +1379,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1377.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1377&posColumn=1377.21">Android面试软技能指导</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1377.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1377&posColumn=1377.22">Android面试软技能指导</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课讲解面试过程中的软技能，内容包括如何编写简历、面试礼仪、如何做自我介绍、在沟通时需要注意的事项等
 		</p>
@@ -1344,7 +1395,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">5098人学习</em>
+				<em class="learn-number">5113人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1367,11 +1418,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1369.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1369&posColumn=1369.22">
+		<a href="http://www.jikexueyuan.com/course/1369.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1369&posColumn=1369.23">
 			<img src="http://a1.jikexueyuan.com/home/201506/16/a27c/557f944ac7c11.jpg" class="lessonimg" title="Adreno Profiler 性能分析工具解析" alt="Adreno Profiler 性能分析工具解析">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1369&posColumn=1369.22"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1369&posColumn=1369.23"></i>
 			</div>
 			
 
@@ -1380,7 +1431,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1369.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1369&posColumn=1369.22">Adreno Profiler 性能分析工具解析</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1369.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1369&posColumn=1369.23">Adreno Profiler 性能分析工具解析</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程讲解Adreno Profiler 是一款优秀的 APP 图形性能析和优化工具。它可以通过友好的可视化方式，实时的对每一帧进行分析，并支持 Android 和 Windows 环境。对于性能来说，会有许多影响的因素，通过精确的图表和分析器，Adreno Profiler 为开发者提供了许多性能侦测的项目，包括基于硬件的性能分析，每个预渲染请求，Shader 原型等。
 		</p>
@@ -1396,7 +1447,7 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">3177人学习</em>
+				<em class="learn-number">3180人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
@@ -1419,11 +1470,11 @@ var _hmt = _hmt || [];
 			
 		
 		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1368.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1368&posColumn=1368.23">
+		<a href="http://www.jikexueyuan.com/course/1368.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1368&posColumn=1368.24">
 			<img src="http://a1.jikexueyuan.com/home/201506/16/421d/557f942a26bef.jpg" class="lessonimg" title="移动平台上的高级三维特效" alt="移动平台上的高级三维特效">
 			
 			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1368&posColumn=1368.23"></i>
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1368&posColumn=1368.24"></i>
 			</div>
 			
 
@@ -1432,7 +1483,7 @@ var _hmt = _hmt || [];
 	</div>
 
 	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1368.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1368&posColumn=1368.23">移动平台上的高级三维特效</a></h2>
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1368.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1368&posColumn=1368.24">移动平台上的高级三维特效</a></h2>
 		<p style="height: 0px; opacity: 0; display: none;">
 			本课程讲解移动平台上的高级三维特效。本讲座介绍了多达15种目前移动设备上运用最主流的高级3D特效。本着理解概念、学习原理、掌握技能的原则，一定会为你今后的移动游戏开发带来更多生动的用户体验。
 		</p>
@@ -1448,65 +1499,13 @@ var _hmt = _hmt || [];
 					</dd>
 					
 				</dl>
-				<em class="learn-number">4281人学习</em>
+				<em class="learn-number">4284人学习</em>
 			</div>
 			<div class="cf">
 				<div class="lessonicon-box">
 					
 					<a href="http://www.jikexueyuan.com/course/android/">
 						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=1368&posColumn=1368.1&aCCate=android" >
-					</a>
-					
-				</div>
-			</div>
-		</div>
-	</div>
-</li>
-
- 
-				 
-					
-<li id="1367" test="0" deg="0" >
-	<div class="lessonimg-box">
-			
-		
-		<i class="free-icon"></i> 
-		<a href="http://www.jikexueyuan.com/course/1367.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1367&posColumn=1367.24">
-			<img src="http://a1.jikexueyuan.com/home/201506/16/2de4/557f93fcad2dd.jpg" class="lessonimg" title="移动平台游戏的性能与功耗优化" alt="移动平台游戏的性能与功耗优化">
-			
-			<div class="lessonplay" style="opacity: 0;">
-				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1367&posColumn=1367.24"></i>
-			</div>
-			
-
-		</a>
-		
-	</div>
-
-	<div class="lesson-infor" style="height: 88px;">
-		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1367.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=1367&posColumn=1367.24">移动平台游戏的性能与功耗优化</a></h2>
-		<p style="height: 0px; opacity: 0; display: none;">
-			本课程讲解了移动平台游戏的性能与功耗优化。如果您已经对 Qualcomm 提供的各种性能监测和优化工具已经有一定了解了。那么本次课程将手把手的带你做性能与功耗优化。
-		</p>
-		<div class="timeandicon">
-			<div class="cf">
-				<dl>
-					<dd class="mar-b8"><i class="time-icon"></i><em>2课时
-							61分钟</em>
-					</dd>
-					<dd class="zhongji">
-						
-					<i class="xinhao-icon3"></i><em>高级</em>
-					</dd>
-					
-				</dl>
-				<em class="learn-number">2874人学习</em>
-			</div>
-			<div class="cf">
-				<div class="lessonicon-box">
-					
-					<a href="http://www.jikexueyuan.com/course/android/">
-						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=1367&posColumn=1367.1&aCCate=android" >
 					</a>
 					
 				</div>

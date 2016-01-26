@@ -1,0 +1,51 @@
+<rss xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
+<channel>
+<title>Yahoo! Weather - Beijing, CN</title>
+<link>
+http://us.rd.yahoo.com/dailynews/rss/weather/Beijing__CN/*http://weather.yahoo.com/forecast/CHXX0008_c.html
+</link>
+<description>Yahoo! Weather for Beijing, CN</description>
+<language>en-us</language>
+<lastBuildDate>Sat, 23 Jan 2016 7:59 pm CST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Beijing" region="" country="China"/>
+<yweather:units temperature="C" distance="km" pressure="mb" speed="km/h"/>
+<yweather:wind chill="-23" direction="340" speed="14.48"/>
+<yweather:atmosphere humidity="16" visibility="11.01" pressure="1045.6" rising="0"/>
+<yweather:astronomy sunrise="7:30 am" sunset="5:21 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>
+http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif
+</url>
+</image>
+<item>
+<title>Conditions for Beijing, CN at 7:59 pm CST</title>
+<geo:lat>39.91</geo:lat>
+<geo:long>116.39</geo:long>
+<link>
+http://us.rd.yahoo.com/dailynews/rss/weather/Beijing__CN/*http://weather.yahoo.com/forecast/CHXX0008_c.html
+</link>
+<pubDate>Sat, 23 Jan 2016 7:59 pm CST</pubDate>
+<yweather:condition text="Partly Cloudy" code="29" temp="-15" date="Sat, 23 Jan 2016 7:59 pm CST"/>
+<description>
+<![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/29.gif"/><br /> <b>Current Conditions:</b><br /> Partly Cloudy, -15 C<BR /> <BR /><b>Forecast:</b><BR /> Sat - Clear/Wind. High: -12 Low: -18<br /> Sun - Sunny. High: -1 Low: -13<br /> Mon - Sunny. High: 3 Low: -11<br /> Tue - Sunny. High: 2 Low: -13<br /> Wed - Sunny. High: 2 Low: -11<br /> <br /> <a href="http://us.rd.yahoo.com/dailynews/rss/weather/Beijing__CN/*http://weather.yahoo.com/forecast/CHXX0008_c.html">Full Forecast at Yahoo! Weather</a><BR/><BR/> (provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+
+]]>
+</description>
+<yweather:forecast day="Sat" date="23 Jan 2016" low="-18" high="-12" text="Clear/Wind" code="24"/>
+<yweather:forecast day="Sun" date="24 Jan 2016" low="-13" high="-1" text="Sunny" code="32"/>
+<yweather:forecast day="Mon" date="25 Jan 2016" low="-11" high="3" text="Sunny" code="32"/>
+<yweather:forecast day="Tue" date="26 Jan 2016" low="-13" high="2" text="Sunny" code="32"/>
+<yweather:forecast day="Wed" date="27 Jan 2016" low="-11" high="2" text="Sunny" code="32"/>
+<guid isPermaLink="false">CHXX0008_2016_01_27_7_00_CST</guid>
+</item>
+</channel>
+</rss>
+<!--
+ fan487.sports.gq1.yahoo.com Sat Jan 23 04:49:45 PST 2016 
+-->
